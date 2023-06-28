@@ -1,4 +1,4 @@
-import src.main
+from src.main import main
 
 def test_main():
-    assert(1,1)
+    main()
